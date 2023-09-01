@@ -1,0 +1,10 @@
+{
+  "item.oregen.raw_silver": "Raw Silver",
+  "item.oregen.silver_nugget": "Silver Nugget",
+  "item.oregen.silver_ingot": "Silver Ingot",
+
+  "block.oregen.silver_block": "Block of Silver",
+  "block.oregen.silver_ore": "Silver Ore",
+
+  "creativetab.oregen_tab": "OreGen Tab"
+}

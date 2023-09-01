@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oregen:block/silver_ore"
+    }
+  }
+}

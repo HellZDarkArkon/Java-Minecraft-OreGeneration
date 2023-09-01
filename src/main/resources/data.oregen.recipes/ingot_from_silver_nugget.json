@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item":"oregen:silver_nugget"
+    }
+  },
+  "result": {
+    "item": "oregen:silver_ingot"
+  }
+}

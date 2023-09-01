@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "silver",
+  "ingredient": {
+    "item": "oregen:raw_silver"
+  },
+  "result": "oregen:silver_ingot"
+}
